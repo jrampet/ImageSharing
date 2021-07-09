@@ -13,7 +13,7 @@ function addImages(){
 }
 var fileSize;
 function myLink(){
-  window.location.href = "Gallery.html"
+  window.location.href = "gallery.html"
 }
 function writeimage(imagelink){
   var timeString = Date().toString
